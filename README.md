@@ -1,4 +1,4 @@
-# CMPUT 301: Lab - ListyCity (JavaDoc and Unit Tests)
+# CMPUT 301: Lab 6 - ListyCity (JavaDoc and Unit Tests)
 
 ## Student Details
 * **Full Name:** Devesh Balaji Kotapally
